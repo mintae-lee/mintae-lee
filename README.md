@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mintae-lee
-- 👀 I’m interested in Typescript, Vue.js, React, PHP, mySQL, Cloud Server, etc.
-- 🌱 I’m currently learning Typescript and React.
+- 👋 Hi, I’m lee, Konno (Japan)
+- 👀 I’m interested in Typescript, React, Next.js, etc.
+- 🌱 I’m currently learning Python and RAG.
 - 💞️ I’m looking to collaborate on DX Team in Japan.
 
 
